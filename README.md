@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, React Native or Any Tech Related or JS
 - 📫 How to reach me: LinkedLn - @Mehedi Rana Shuvo
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I heard 12 hours songs ! But, With coding :p -->
 -->
