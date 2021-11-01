@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Mehedi 👋
 
 <!--
 **mehedirana/mehedirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
