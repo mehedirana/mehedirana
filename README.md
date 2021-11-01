@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate opensource
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React, React Native or Any Tech Related or JS
-- 📫 How to reach me: LinkedLn - @Mehedi Rana Shuvo
+- 📫 How to reach me: Linkedln - @Mehedi Rana Shuvo
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
