@@ -24,5 +24,5 @@
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
+
 
