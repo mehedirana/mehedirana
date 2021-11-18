@@ -23,9 +23,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://lh3.googleusercontent.com/proxy/qwUJ8wr9KbrxqkOivJSdvLklmRwg-XV-htczXm6N5tdjqjzK-hAV0nGUqLUTTvf3DLT9_gj1lyeq--2zKTNykigRjrZcA5hu"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/39426829/142416701-1f42b6aa-cfca-4934-8f6c-44709cccd9bb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/39426829/142417748-88d64955-8403-4ebd-a555-2f67bd62eec2.png"></code>
+<code><img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png"></code>
 
 
 
