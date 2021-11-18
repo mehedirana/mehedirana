@@ -1,4 +1,4 @@
-### Hi I am Md.Mehedi Rana Shuvo 👋
+# Hi I am Md.Mehedi Rana Shuvo 👋
 
 - 🔭 I’m currently working at Ryans Computers Ltd. as a Mobile Application Developer
 - 🌱 I’m currently learning Nodejs, Socket.io
@@ -10,4 +10,5 @@
 - ⚡ Fun fact: ...
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedirana&show_icons=true&theme=radical)
+ ## Languages and Frameworks
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
