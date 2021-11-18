@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedirana&show_icons=true&theme=radical)
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
