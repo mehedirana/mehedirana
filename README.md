@@ -19,12 +19,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/39426829/142416701-1f42b6aa-cfca-4934-8f6c-44709cccd9bb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://lh3.googleusercontent.com/proxy/qwUJ8wr9KbrxqkOivJSdvLklmRwg-XV-htczXm6N5tdjqjzK-hAV0nGUqLUTTvf3DLT9_gj1lyeq--2zKTNykigRjrZcA5hu"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/39426829/142416701-1f42b6aa-cfca-4934-8f6c-44709cccd9bb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
 
