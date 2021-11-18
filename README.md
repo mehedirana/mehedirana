@@ -11,7 +11,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedirana&show_icons=true&theme=radical)
  ## Languages and Frameworks
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehedirana&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
