@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate opensource
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React, React Native or Any Tech Related or JS
-- 📫 How to reach me:  LinkedIn - href="https://www.linkedin.com/in/mehedi-rana-shuvo-653969173/"
+- 📫 How to reach me:  LinkedIn - https://www.linkedin.com/in/mehedi-rana-shuvo-653969173/
  
 
 - 😄 Pronouns: He/His
