@@ -22,9 +22,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/39426829/142417748-88d64955-8403-4ebd-a555-2f67bd62eec2.png"></code>
-<code><img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png"></code>
 
 
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -48,6 +45,9 @@
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<code><img height="40" src="https://user-images.githubusercontent.com/39426829/142417748-88d64955-8403-4ebd-a555-2f67bd62eec2.png"></code>
+<code><img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png"></code>
 
 
 
