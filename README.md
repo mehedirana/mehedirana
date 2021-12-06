@@ -26,7 +26,7 @@
 <code><img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png"></code>
 
-### 🛠️ Languages and Tools:
+
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" alt="react" src="https://img.shields.io/badge/-React%20Native-black"/>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png"></code>
