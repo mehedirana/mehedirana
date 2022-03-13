@@ -1,6 +1,6 @@
 # Hi I am Md.Mehedi Rana Shuvo 👋
 
-- 🔭 I’m currently working at Ryans Computers Ltd. as a Mobile Application Developer
+- 🔭 I’m currently working  as a Software Engineer
 - 🌱 I’m currently learning Nodejs, Socket.io
 - 👯 I’m looking to collaborate opensource
 - 🤔 I’m looking for help with ...
