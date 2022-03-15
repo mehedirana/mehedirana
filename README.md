@@ -1,7 +1,7 @@
 # Hi I am Md.Mehedi Rana Shuvo 👋
 
 - 🔭 I’m currently working  as a Software Engineer
-- 🌱 I’m currently learning Nodejs, Socket.io
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate opensource
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React, React Native or Any Tech Related or JS
