@@ -8,7 +8,7 @@
 - 📫 How to reach me:  LinkedIn - https://www.linkedin.com/in/mehedi-rana-shuvo-653969173/
  
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/they
 - ⚡ Fun fact: ...
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedirana&show_icons=true&theme=tokyonight)
